@@ -1,4 +1,4 @@
-## plot 2 generation
+## plot 4 generation
 
 ## 1. Read Data
 filename <- "household_power_consumption.txt"
